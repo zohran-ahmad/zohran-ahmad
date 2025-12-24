@@ -1,13 +1,16 @@
-<h1 align="center">Hi 👋, I'm Zohran Ahmad Khan</h1>
-<h3 align="center">A developer from the valley</h3>
+<h1 align="center">Hi 👋, I'm Zohran</h1>
+<h3 align="center">A developer from the valley!</h3>
 
 <p align="left"> <a href="https://twitter.com/@zohranak" target="blank"><img src="https://img.shields.io/twitter/follow/@zohranak?logo=twitter&style=for-the-badge" alt="@zohranak" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Dev**
+- Currently a CS undergrad at SRMIST, KTR (2023 - 2027)
 
-- 📫 How to reach me **zohrankhan05@gmail.com**
+- Learning **Full Stack Web Dev**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10w0nGQiSvZQ9F2nmUGK_gMPodNHdFMLJ/view?usp=drivesdk](https://drive.google.com/file/d/10w0nGQiSvZQ9F2nmUGK_gMPodNHdFMLJ/view?usp=drivesdk)
+- How to reach me **zohrankhan05@gmail.com**
+
+- Know about my experiences [https://drive.google.com/file/d/10w0nGQiSvZQ9F2nmUGK_gMPodNHdFMLJ/view?usp=drivesdk](https://drive.google.com/file/d/10w0nGQiSvZQ9F2nmUGK_gMPodNHdFMLJ/view?usp=drivesdk)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
