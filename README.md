@@ -13,7 +13,6 @@
 <a href="https://linkedin.com/in/zohranahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zohranahmad" height="30" width="40" /></a>
 <a href="https://fb.com/zohranahmad.khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zohranahmad.khan" height="30" width="40" /></a>
 <a href="https://instagram.com/z0hrxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="z0hrxn" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/190020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="190020" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
