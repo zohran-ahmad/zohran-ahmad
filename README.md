@@ -21,7 +21,7 @@ Passionate about building scalable software, solving algorithmic problems, and c
 </p>
 
 <br>
----
+
 <br>
 
 <h2 align="center">💫 About Me</h2>
@@ -42,7 +42,7 @@ Java • DSA • React • MySQL • Git • Software Development
 </p>
 
 <br>
----
+
 <br>
 
 <h2 align="center">💻 Tech Stack</h2>
@@ -91,7 +91,7 @@ Java • DSA • React • MySQL • Git • Software Development
 </p>
 
 <br>
----
+
 <br>
 
 <h2 align="center">🌐 Connect With Me</h2>
@@ -120,7 +120,7 @@ Java • DSA • React • MySQL • Git • Software Development
 </p>
 
 <br>
----
+
 <br>
 
 <p align="center">
@@ -136,7 +136,7 @@ Java • DSA • React • MySQL • Git • Software Development
 </p>
 
 <br>
----
+
 <br>
 
 <h2 align="center">📈 Contribution Graph</h2>
@@ -146,7 +146,7 @@ Java • DSA • React • MySQL • Git • Software Development
 </p>
 
 <br>
----
+
 <br>
 
 <h2 align="center">🚀 Featured Projects</h2>
@@ -194,7 +194,7 @@ React • Spring Boot • MySQL
 </table>
 
 <br>
----
+
 <br>
 
 <h2 align="center">💡 Quote</h2>
