@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFBF2C00&center=true&width=435&lines=Hi!+I'm+Zohran)](https://git.io/typing-svg)
+
 # 💫 About Me:
 🔭 I'm currently working on:<br>Building full-stack applications with Spring Boot and React, improving my Data Structures & Algorithms skills in Java, and developing practical software projects.<br>👯 I'm looking to collaborate on:<br>Open-source Java, Spring Boot, React, and full-stack development projects.<br>🌱 I'm currently learning:<br>Spring Boot, REST APIs, System Design, Microservices, and advanced DSA.<br>💬 Ask me about:<br>Java, DSA, React, MySQL, Git, or anything related to software development and problem solving.<br>⚡ Fun fact:<br>I enjoy turning real-world problems into software solutions—and turning "Wrong Answer" into "Accepted" one submission at a time.
 
