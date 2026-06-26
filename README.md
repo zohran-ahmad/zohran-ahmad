@@ -126,13 +126,19 @@ Java • DSA • React • MySQL • Git • Software Development
 <p align="center">
 <h2 align="center">📊 GitHub Statistics</h2>
 
-<p align="center">
-  <img height="180px" width="49%" src="https://github-readme-stats.shion.dev/api?username=zohran-ahmad&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180px" width="49%" src="https://streak-stats.demolab.com/?user=zohran-ahmad&theme=tokyonight&hide_border=true" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api?username=zohran-ahmad&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=zohran-ahmad&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img height="180px" width="42%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=zohran-ahmad&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img width="42%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=zohran-ahmad&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 <br>
