@@ -127,8 +127,9 @@ Java • DSA • React • MySQL • Git • Software Development
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=zohran-ahmad&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=zohran-ahmad&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight"/>
+
+  <img height="180em" src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight"/>
 </p>
 
 <p align="center">
