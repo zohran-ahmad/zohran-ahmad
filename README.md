@@ -218,5 +218,3 @@ React • Spring Boot • MySQL
 <p align="center">
   <sub>Always open to collaborating on interesting projects and learning something new.</sub>
 </p>
-```
-
