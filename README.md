@@ -1,11 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F2027,35:203A43,100:2C5364&text=Zohran%20Ahmad%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 <h1 align="center">
-  Hi 👋, I'm Zohran Ahmad Khan
+  Hi 👋, I'm Zohran
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merienda&weight=600&size=25&duration=4500&pause=1000&color=23B1F79F&background=FFEFA100&center=true&width=435&lines=Hi!+I'm+Zohran;Software+Development+Engineer;Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Java+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merienda&weight=600&size=25&duration=4500&pause=1000&color=23B1F79F&background=FFEFA100&center=true&width=435&lines=Software+Development+Engineer;Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Java+Developer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
