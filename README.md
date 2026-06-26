@@ -32,21 +32,11 @@ Building full-stack applications with Spring Boot and React while strengthening 
 👯 <b>I'm looking to collaborate on</b><br>
 Open Source Java, Spring Boot, React and Full Stack Development projects.
 
-<br><br>
-
 🌱 <b>I'm currently learning</b><br>
 Spring Boot • REST APIs • System Design • Microservices • Advanced DSA
 
-<br><br>
-
 💬 <b>Ask me about</b><br>
 Java • DSA • React • MySQL • Git • Software Development
-
-<br><br>
-
-⚡ <b>Fun Fact</b><br>
-I enjoy turning real-world problems into software solutions—and turning <b>"Wrong Answer"</b> into <b>"Accepted"</b>, one submission at a time.
-
 </p>
 
 ---
@@ -74,6 +64,10 @@ I enjoy turning real-world problems into software solutions—and turning <b>"Wr
 <a href="https://x.com/zohranAK">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
+
+---
+
+<h2 align="center">💻 Tech Stack</h2>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -122,8 +116,6 @@ I enjoy turning real-world problems into software solutions—and turning <b>"Wr
 </p>
 
 ---
-
-<h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
 ```
