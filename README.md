@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Development+Engineer;Java+Developer;Spring+Boot+%7C+React+Developer;Full+Stack+Developer;Always+Learning+New+Technologies" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&weight=600&size=25&duration=4500&pause=1000&color=23B1F79F&background=FFEFA100&center=true&width=435&lines=Hi!+I'm+Zohran;Software+Development+Engineer;Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Java+Developer)](https://git.io/typing-svg)
 </p>
 
 <p align="center">
