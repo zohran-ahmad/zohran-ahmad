@@ -29,8 +29,6 @@ Passionate about building scalable software, solving algorithmic problems, and c
 🔭 <b>I'm currently working on</b><br>
 Building full-stack applications with Spring Boot and React while strengthening my Data Structures & Algorithms skills in Java.
 
-<br><br>
-
 👯 <b>I'm looking to collaborate on</b><br>
 Open Source Java, Spring Boot, React and Full Stack Development projects.
 
